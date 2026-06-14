@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.png" alt="Aegis QA Logo" width="180" height="auto" style="border-radius: 20%; box-shadow: 0 4px 15px rgba(0,255,255,0.2);" />
+  
   
   # Automated Fast Checking of Medical Information using LLM and Vector Search
 
